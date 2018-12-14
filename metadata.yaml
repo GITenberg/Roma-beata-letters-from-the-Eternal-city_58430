@@ -1,0 +1,28 @@
+_repo: Roma-beata-letters-from-the-Eternal-city_58430
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Elliott, John
+    gutenberg_agent_id: '49955'
+    url: http://www.gutenberg.org/2009/agents/49955
+creator:
+  author:
+    agent_name: Elliott, Maud Howe
+    alias: Howe, Maud
+    birthdate: 1854
+    deathdate: 1948
+    gutenberg_agent_id: '39593'
+    url: http://www.gutenberg.org/2009/agents/39593
+description: ''
+gutenberg_issued: '2018-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Roma beata; letters from the Eternal city
+url: http://www.gutenberg.org/ebooks/58430
