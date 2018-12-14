@@ -5,6 +5,9 @@ contributor:
     agent_name: Elliott, John
     gutenberg_agent_id: '49955'
     url: http://www.gutenberg.org/2009/agents/49955
+covers:
+- cover_type: archival
+  image_path: 58430-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliott, Maud Howe
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '39593'
     url: http://www.gutenberg.org/2009/agents/39593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58430#Roma-beata-letters-from-the-Eternal-city
 gutenberg_issued: '2018-12-08'
 gutenberg_type: Text
 identifiers:
